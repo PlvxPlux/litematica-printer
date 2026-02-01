@@ -165,5 +165,6 @@ AngelBottomless, continued work and completed AccurateBlockPlacement and Redston
 This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
 
 ## TODO List (most possible to least possible)
+# Build for Minecraft 1.21.10 - Testing
 
 Enable Fake rotations at default, and buff options for faster placing
